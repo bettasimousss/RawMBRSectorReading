@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1431078799 source:e:\syc2_ms\mbr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
